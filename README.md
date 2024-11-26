@@ -33,3 +33,6 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![typeScript](https://img.shields.io/badge/-typeScript-05122A?style=flat&logo=typeScript)&nbsp;
 
+
+
+
